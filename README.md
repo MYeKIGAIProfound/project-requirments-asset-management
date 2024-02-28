@@ -1,6 +1,3 @@
-Certainly! Below is a sample requirements document for the asset management software project for EV-related manufacturing companies:
-
----
 
 # Asset Management Software Requirements Document
 
